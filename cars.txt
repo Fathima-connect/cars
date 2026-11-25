@@ -6,5 +6,6 @@ Lexus
 Ferrari
 Rolls Royce
 Aston Martin
-Alpha Romeo
+Alfa Romeo
 Mitsubhishi
+Mini
